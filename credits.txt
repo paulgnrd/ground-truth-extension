@@ -1,0 +1,170 @@
+N: Matthijs DEN BESTEN
+D: Initiator
+
+N: Chloe ARSONNEAU
+D: Contributor
+D: Group A
+
+N: Laetitia Assor
+D: Contributor
+D: Group F
+
+N: Naomie ASSOUS
+D: Contributor
+D: Group F
+
+N: Amadou BA
+D: Contributor
+D: Group E
+
+N: Colomban BEDNAREK
+D: Contributor
+D: Group H
+
+N: Miao BI
+D: Contributor
+D: Group A
+
+N: Nawel BOURMANI
+D: Contributor
+D: Group G
+
+N: Tom Carpentier
+D: Contributor
+D: Group C
+
+N: Yichen Cheng
+D: Contributor
+D: Group E
+
+N: Mathilde COMTE
+D: Contributor
+D: Group H
+
+N: Marie CORTES
+D: Contributor
+D: Group A
+
+N: Yasmine DOGHRI
+D: Contributor
+D: Group E
+
+N: Nina-Lou FRESNIL
+D: Contributor
+D: Group E
+
+N: Paul GUINARD
+D: Contributor
+D: Group D
+
+N: Lou-Ann GUYOMARC'H
+D: Contributor
+D: Group D
+
+N: Mouad HAMDOUNE
+D: Contributor
+D: Group C
+
+N: Skander HOUISSA
+D: Contributor
+D: Group A
+
+N: Karine Ismail
+D: Contributor
+D: Group C
+
+N: Cedric Lion
+D: Contributor
+D: Group B
+
+N: Valentin Loiret
+D: Contributor
+D: Group H
+
+N: Ewen MARGUET
+D: Contributor
+D: Group F
+
+N: Nicolas MATHIEU
+D: Contributor
+D: Group G
+
+N: Margot Monge
+D: Contributor
+D: Group B
+
+N: Matteo Nottaris
+D: Contributor
+D: Group H
+
+N: Mathieu OLIVIER
+D: Contributor
+D: Group G
+
+N: Carla PETRI
+D: Contributor
+D: Group A
+
+N: Rémy Pignel
+D: Contributor
+D: Group C
+
+N: Ethel PRYS
+D: Contributor
+D: Group H
+
+N: Félix ROUGIER
+D: Contributor
+D: Group E
+
+N: Maelle SAINRIMAT
+D: Contributor
+D: Group A
+
+N: Aminata SENE
+D: Contributor
+D: Group D
+
+N: Amina SHANGEREYEVA
+D: Contributor
+D: Group B
+
+N: Anna SIMONYAN
+D: Contributor
+D: Group D
+
+N: Margaux TOURNOIS
+D: Contributor
+D: Group F
+
+N: Léa Viala
+D: Contributor
+D: Group F
+
+N: Chen WANG
+D: Contributor
+D: Group B
+
+N: William WEILL
+D: Contributor
+D: Group G
+
+N: Yangjiawei Xue
+D: Contributor
+D: Group C
+
+N: Haotian YANG
+D: Contributor
+D: Group B
+
+N: Aizhan Zhakupova
+D: Contributor
+D: Group D
+
+N: Wanyu ZHANG
+D: Contributor
+D: Group G
+
+N: Yanming Zhang
+D: Contributor
+D: Group B
