@@ -146,7 +146,7 @@ D: Contributor
 D: Group B
 
 N: William WEILL
-D: Contributor
+D: test
 D: Group G
 
 N: Yangjiawei Xue
