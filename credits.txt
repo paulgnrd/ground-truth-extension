@@ -83,7 +83,7 @@ D: Group H
 
 N: Ewen MARGUET
 D: Contributor
-D: Group F
+D: Group E
 
 N: Nicolas MATHIEU
 D: Contributor
