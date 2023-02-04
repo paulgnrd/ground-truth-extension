@@ -131,7 +131,7 @@ D: Group B
 
 N: Anna SIMONYAN
 D: Contributor
-D: Group D
+D: Group H
 
 N: Margaux TOURNOIS
 D: Contributor
