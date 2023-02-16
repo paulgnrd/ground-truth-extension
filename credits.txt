@@ -55,7 +55,7 @@ D: Group E
 
 N: Paul GUINARD
 D: Contributor
-D: Group D
+D: Group G
 
 N: Lou-Ann GUYOMARC'H
 D: Contributor
