@@ -51,7 +51,7 @@ D: Group E
 
 N: Nina-Lou FRESNIL
 D: Contributor
-D: Group E
+D: No longer in the class
 
 N: Paul GUINARD
 D: Contributor
@@ -115,7 +115,7 @@ D: Group H
 
 N: Félix ROUGIER
 D: Contributor
-D: Group E
+D: No longer in the class
 
 N: Maelle SAINRIMAT
 D: Contributor
@@ -168,3 +168,7 @@ D: Group G
 N: Yanming Zhang
 D: Contributor
 D: Group B
+
+N: Léa Fournier
+D: Contributor
+D: Group E
