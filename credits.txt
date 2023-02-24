@@ -54,7 +54,7 @@ D: Contributor
 D: No longer in the class
 
 N: Paul GUINARD
-D: Contributor
+D: Contributor : Introduced the presentation and participated to the research and presentation of the first project (Fast CSV) mainly on governance issue. Participated in the elaboration and shaping of the slides. 
 D: Group G
 
 N: Lou-Ann GUYOMARC'H
